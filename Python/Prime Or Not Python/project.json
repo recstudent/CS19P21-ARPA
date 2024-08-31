@@ -1,11 +1,12 @@
 {
-  "name": "background1",
-  "projectId": "441f1172-f268-4962-b05c-e7fb415c3a7a",
+  "name": "Prime Or Not Python",
+  "projectId": "7b1c5329-2a5f-463f-b935-33dbca440e32",
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.23.4]",
     "UiPath.Mail.Activities": "[1.23.1]",
+    "UiPath.Python.Activities": "[1.8.1]",
     "UiPath.System.Activities": "[24.10.3]",
     "UiPath.Testing.Activities": "[24.10.0]",
     "UiPath.UIAutomation.Activities": "[24.10.0]"
@@ -50,7 +51,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "59715e07-b59f-4e8c-87e1-f9ee7b478c3e",
+      "uniqueId": "16a99131-41aa-4c8f-8c48-42deb1caae0e",
       "input": [],
       "output": []
     }

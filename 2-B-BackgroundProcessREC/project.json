@@ -1,26 +1,25 @@
 {
-  "name": "background1",
-  "projectId": "441f1172-f268-4962-b05c-e7fb415c3a7a",
-  "description": "Blank Process",
+  "name": "BackgroundProcess",
+  "projectId": "685d7cd0-197b-44b4-83ec-fd7301b6d581",
+  "description": "Background Process",
   "main": "Main.xaml",
   "dependencies": {
-    "UiPath.Excel.Activities": "[2.23.4]",
-    "UiPath.Mail.Activities": "[1.23.1]",
-    "UiPath.System.Activities": "[24.10.3]",
-    "UiPath.Testing.Activities": "[24.10.0]",
-    "UiPath.UIAutomation.Activities": "[24.10.0]"
+    "UiPath.Excel.Activities": "[2.23.2-preview]",
+    "UiPath.Mail.Activities": "[1.22.1]",
+    "UiPath.System.Activities": "[24.2.0-preview]",
+    "UiPath.WebAPI.Activities": "[1.19.0-preview]"
   },
   "webServices": [],
   "entitiesStores": [],
   "schemaVersion": "4.0",
-  "studioVersion": "24.10.1.0",
+  "studioVersion": "24.2.1.0",
   "projectVersion": "1.0.0",
   "runtimeOptions": {
     "autoDispose": false,
     "netFrameworkLazyLoading": false,
     "isPausable": true,
     "isAttended": false,
-    "requiresUserInteraction": true,
+    "requiresUserInteraction": false,
     "supportsPersistence": false,
     "workflowSerialization": "DataContract",
     "excludedLoggedData": [
@@ -50,7 +49,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "59715e07-b59f-4e8c-87e1-f9ee7b478c3e",
+      "uniqueId": "51322526-17bb-4b9c-99d9-d4544c440ef6",
       "input": [],
       "output": []
     }

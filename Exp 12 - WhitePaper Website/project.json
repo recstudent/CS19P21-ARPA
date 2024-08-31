@@ -1,6 +1,6 @@
 {
-  "name": "background1",
-  "projectId": "441f1172-f268-4962-b05c-e7fb415c3a7a",
+  "name": "DataScraping_Whitepapers",
+  "projectId": "e096c1dc-547c-4b7e-b739-ae70ac40673c",
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
@@ -50,7 +50,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "59715e07-b59f-4e8c-87e1-f9ee7b478c3e",
+      "uniqueId": "4e5f279c-87a5-46cf-a010-e696b7cf73c8",
       "input": [],
       "output": []
     }
